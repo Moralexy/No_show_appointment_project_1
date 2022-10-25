@@ -19,4 +19,4 @@ This dataset is well structured and easy to manipulate. However, some constrains
 
 For visualisations, I gave priority to age and its influence on patients' no-show behaviour. Afterwards, I showed how patient gender can predict no-show behavior of patients in total and within age brackets and how medical scholarship influence no-show behavior of patients under study.  
 
-I started with the barchart of of no_show appointments with age, and went further to show the cBarh chart of no_show appointments by gender and age bracket. Finally, I showed the Proportions of no-show by patient medical sponsorship with a pie chart. I have made sure to pass the right messages with colours for each variable clearly.
+I started with the barchart of of no_show appointments with age, and went further to show the Barh chart of no_show appointments by gender and age bracket. Finally, I showed the Proportions of no-show by patient medical sponsorship with a pie chart. I have made sure to pass the right messages with colours for each variable clearly.
